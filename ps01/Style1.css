@@ -1,0 +1,103 @@
+#circle13{
+    fill:#D8D6EC;
+}
+
+#circle2{
+    fill:#D8D6EC;
+    stroke-width:4;
+    stroke:#AEE0E8;
+    opacity: 0.5;
+}
+
+#circle3{
+    fill:#D8D6EC;
+    stroke-width:4;
+    stroke:#AEE0E8;
+    opacity: 0.7;
+}
+
+#circle4{
+    fill:#D8D6EC;
+    opacity:0.65;
+}
+
+#circle11{
+    fill:#D8D6EC;
+    opacity:0.5;
+}
+
+#circle6{
+    fill:#D8D6EC;
+    stroke-width:4;
+    stroke:#AEE0E8;
+    opacity:0.9;
+
+}
+
+#circle7{
+     fill:#AEE0E8;
+     opacity:0.3;
+    stroke-width:2;
+    stroke:#00AEEF;
+
+ }
+
+#circle8{
+    fill:#AEE0E8;
+    opacity:1.0;
+
+}
+
+#circle9{
+    fill:#AEE0E8;
+    opacity:1.0;
+
+}
+
+#circle10{
+    fill:#AEE0E8;
+    opacity:0.5;
+    stroke-width:2;
+    stroke:#00AEEF;
+
+}
+
+
+#circle5{
+    fill:#AEE0E8;
+    opacity:0.7;
+    stroke-width:2;
+    stroke:#00AEEF;
+
+}
+
+#circle12{
+    fill:#AEE0E8;
+    opacity:1.0;
+
+}
+
+#circle1{
+    fill:#D8D6EC;
+    opacity:0.35;
+}
+svg{
+    float:left;
+}
+.header1{
+    background-color: #D8D6EC;
+    height:175px;
+    width:150px;
+    float:left;
+    margin-top: 300px;
+    margin-left: 45px;
+
+
+}
+
+P{
+    font-size:30px;
+    font-family: 'Encode Sans Expanded', sans-serif;
+    color: aliceblue;
+
+}
