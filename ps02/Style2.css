@@ -1,0 +1,26 @@
+.header1 {
+    background-color: #D8D6EC;
+    height: 175px;
+    width: 150px;
+    float: right;
+    margin-top: 300px;
+    margin-right: 45px;
+}
+
+.header2{
+    background-color: #D8D6EC;
+    opacity:0.3;
+    height:225px;
+    width:25px;
+    float:right;
+    margin-top:275px;
+    margin-left: 30px;
+
+
+
+}
+
+P{
+    font-size:30px;
+    font-family: 'Encode Sans Expanded', sans-serif;
+    color: aliceblue;
