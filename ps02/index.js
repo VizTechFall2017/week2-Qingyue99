@@ -60,13 +60,6 @@ indexCard.append('rect')
     .attr('fill','white')
     .attr('stroke','black');
 
-indexCard.append('rect')
-    .attr('x',455)
-    .attr('y',355)
-    .attr('width',118)
-    .attr('height',118)
-    .attr('fill','white')
-    .attr('stroke','black');
 
 indexCard.append('rect')
     .attr('x',255)
@@ -78,9 +71,9 @@ indexCard.append('rect')
 
 indexCard.append('rect')
     .attr('x',455)
-    .attr('y',555)
+    .attr('y',473)
     .attr('width',118)
-    .attr('height',118)
+    .attr('height',198)
     .attr('fill','white')
     .attr('stroke','black');
 
